@@ -9,7 +9,7 @@ body
 }
 #container
 {
-    width: 50%;
+    width: 150%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
@@ -18,5 +18,5 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 30px;
 }
